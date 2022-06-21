@@ -1,10 +1,13 @@
-[test]
-git-tree-sha1 = "7ae621af7e21ef05d6027d42934576f2ce5976fa"
+[test1]
+git-tree-sha1 = "092782dbcec6ba8301c7a0e97991d09ff0a0bb38"
 
-[[test.download]]
+[[test1.download]]
 url = "https://github.com/JuliaComputing/IngestTest.jl/raw/artifacts/test1.tar.gz"
-sha256 = "6dde924d05b8c4afccf7b7772720f5eaa63be218ccb722a59c816a1d5f38b61d"
+sha256 = "39d33e4126945558cf5ee2e028baa96e78a11aaa45641e1179d2f06421eccf13"
 
-[[test.download]]
+[test2]
+git-tree-sha1 = "667906ef67c6eb2379f1a80aa49c43b1088050d4"
+
+[[test2.download]]
 url = "https://github.com/JuliaComputing/IngestTest.jl/raw/artifacts/test2.tar.gz"
-sha256 = "414da4e4aad748768f027bec2e8e3d617fd8b56ea5c91f1c58d31afe50d41008"
+sha256 = "fcd6acac014ca3dd51e0842d13ffe3d8940ffecdffe09fc81132a3ec2b5716c0"
