@@ -1,5 +1,6 @@
 module IngestTest
-export hello, domath
+using Pkg.Artifacts
+export hello, domath, artifactpaths
 
 """
     hello(who::String)
@@ -14,5 +15,7 @@ hello(who::String) = "Hello, $who"
 Return `x + 5`.
 """
 domath(x::Number) = x + 5
+
+artifactpaths() = (artifact"test1", artifact"test2")
 
 end
