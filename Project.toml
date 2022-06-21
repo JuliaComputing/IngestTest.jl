@@ -2,6 +2,9 @@ name = "IngestTest"
 uuid = "3729a6e1-a122-4e3b-b8b1-5d8ad9ac4808"
 version = "0.1.2"
 
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+
 [compat]
 julia = "1.3 - 1"
 
