@@ -1,5 +1,5 @@
-using Documenter, PrivateExample
+using Documenter, IngestTest
 
-makedocs(modules = [PrivateExample], sitename = "PrivateExample.jl")
+makedocs(modules = [IngestTest], sitename = "IngestTest.jl")
 
-deploydocs(repo = "github.com/vdayanand/PrivateExample.jl.git")
+deploydocs(repo = "github.com/JuliaComputing/IngestTest.jl.git")

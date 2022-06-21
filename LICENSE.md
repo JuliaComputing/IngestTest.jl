@@ -1,4 +1,4 @@
-The PrivateExample.jl package is licensed under the MIT "Expat" License:
+The IngestTest.jl package is licensed under the MIT "Expat" License:
 
 > Copyright (c) 2013-2014: Stefan Karpinski, Iain Dunning, _et al._
 >

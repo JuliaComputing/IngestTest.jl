@@ -3,5 +3,5 @@
 Example Julia package repo.
 
 ```@autodocs
-Modules = [PrivateExample]
+Modules = [IngestTest]
 ```

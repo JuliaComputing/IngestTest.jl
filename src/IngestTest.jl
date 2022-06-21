@@ -1,4 +1,4 @@
-module PrivateExample
+module IngestTest
 export hello, domath
 
 """
